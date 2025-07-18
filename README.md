@@ -4,7 +4,7 @@
 
 ### How To Use: **[How to Edit and Backup Skylanders](https://www.youtube.com/watch?v=DIgkSAm9yLk)**
 
-# [<img src="https://i.ibb.co/7YCPQHY/Skylanders-GUI-Tool-4-2.jpg">](https://www.pyrofersprojects.com/blog/skylanders-gui-tool/)
+# [<img src="assets/skylandersGUITool.jpg">](https://www.pyrofersprojects.com/blog/skylanders-gui-tool/)
 
 This is a backup of the "**Skylanders GUI Tool**" made by **Pyrofer**.
 
